@@ -19,11 +19,8 @@
   
   ##
   
-  
-<div>
-  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/poze#5358" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>
+  
   ![Snake animation](https://github.com/nicolaspy1/nicolaspy1/blob/output/github-contribution-grid-snake.svg)
  
 
